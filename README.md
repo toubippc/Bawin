@@ -13,7 +13,7 @@ Numérisation d'un ancien ouvrage, considéré comme bible par certains professe
 
 Bien que ancien, il recèle d'informations utiles pour la construction mécanique et l'usinage.
 
-Cette ouvrage est ancien !
+Cet ouvrage est ancien !
 Les normes ne sont peut etre plus d'actualitées et les bases pour l'usinage font références a d'anciens outils/machines.
 
 
